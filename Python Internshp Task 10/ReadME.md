@@ -12,4 +12,4 @@ The libraries used for achieveing this are listed below:
 
 the exe file will be attached for the use.
 
-the github link to the repository is: 
+the github link to the repository is: https://github.com/ashhad25/python_programming_internship/tree/main/Python%20Internshp%20Task%2010
